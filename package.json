@@ -1,0 +1,22 @@
+{
+  "name": "snowpack-try",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "snowpack dev",
+    "build": "snowpack build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@snowpack/plugin-svelte": "^3.6.0",
+    "snowpack": "^3.1.2"
+  },
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta3",
+    "svelte": "^3.35.0",
+    "svelte-spa-router": "^3.1.0"
+  }
+}
